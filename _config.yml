@@ -1,0 +1,14 @@
+layout_spectrum: 0.6729926
+typography_spectrum: 0.04059569
+color:
+  saturation: 0.2764325
+  lightness: 0.8444474
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#17151F'
+    - '#FBCFBD'
+    - '#91655B'
+    - '#88A1C7'
+  rhythmicContrast: 0.6448173
+name: VandanaGoyal
